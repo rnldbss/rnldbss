@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 👨‍💻 All of my projects are available at [bessa.dev](bessa.dev)
+- 👨‍💻 All of my projects are available at [bessa.studio](bessa.studio)
 
 - 📫 How to reach me **bessa.creative.dev@gmail**
 
