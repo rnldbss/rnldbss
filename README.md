@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Ronald Bessa</h1>
-<h3 align="left">A passionate frontend developer, that loves creating dynamic and beutiful web experiences.</h3>
+<h3 align="left">A passionate frontend developer, that loves creating dynamic and beautiful web experiences.</h3>
 
 - 🌱 I’m currently learning **Three.js**
 
 - 👨‍💻 All of my projects are available at [bessa.studio](bessa.studio)
 
-- 📫 How to reach me **bessa.creative.dev@gmail**
+- 📫 How to reach me **ronald@bessa.studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
