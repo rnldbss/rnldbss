@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ronald Bessa</h1>
 <h3 align="left">A passionate frontend developer, that loves creating dynamic and beautiful web experiences.</h3>
 
-- 🌱 I’m currently learning **Three.js**
-
 - 👨‍💻 All of my projects are available at [bessa.studio](bessa.studio)
 
 - 📫 How to reach me **ronald@bessa.studio**
